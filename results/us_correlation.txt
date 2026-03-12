@@ -1,0 +1,12 @@
+Average Search Interest vs Cumulative Global Revenue per US IP
+Pearson r = 0.0798, p-value = 0.6925
+Spearman ρ = 0.0488, p-value = 0.8088
+
+Media Exposure vs Cumulative Global Revenue per US IP
+Pearson r = 0.3599, p-value = 0.0652
+Spearman ρ = 0.0776, p-value = 0.7006
+
+Creation Date vs Cumulative Global Revenue per US IP
+Pearson r = 0.0122, p-value = 0.9517
+Spearman ρ = -0.0257, p-value = 0.8989
+

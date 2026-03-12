@@ -1,0 +1,12 @@
+Average Search Interest vs Cumulative Global Revenue per Japanese IP
+Pearson r = 0.0554, p-value = 0.0000
+Spearman ρ = 0.2596, p-value = 0.0000
+
+Media Exposure vs Cumulative Global Revenue per Japanese IP
+Pearson r = -0.2504, p-value = 0.2380
+Spearman ρ = -0.0403, p-value = 0.8519
+
+Creation Date vs Cumulative Global Revenue per Japanese IP
+Pearson r = -0.2540, p-value = 0.2105
+Spearman ρ = -0.2697, p-value = 0.1827
+
